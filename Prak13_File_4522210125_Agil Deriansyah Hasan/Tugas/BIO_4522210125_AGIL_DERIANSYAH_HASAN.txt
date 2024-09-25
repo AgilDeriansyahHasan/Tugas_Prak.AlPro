@@ -1,0 +1,6 @@
+Nama 		: Agil Deriansyah Hasan	
+Alamat 	: Jl Bintara14 			
+Npm	 	: 4522210125			
+Usia		: 19 Tahun				
+Hobby		: Bulu Tangkis			
+Status	: Pelajar				
